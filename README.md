@@ -11,6 +11,17 @@ classifier has to learn how a claim is made, not what it is about.
 This README is the final report. The working notes, full label rationale, edge-case rulebook, and
 the success criteria fixed in advance live in [planning.md](planning.md).
 
+## Demo Video
+
+<div>
+    <a href="https://www.loom.com/share/618cedc2fb4c47b5ad5e6a55281efe93">
+      <p>Evaluating TechMeter NBA Text Classifier - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/618cedc2fb4c47b5ad5e6a55281efe93">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/618cedc2fb4c47b5ad5e6a55281efe93-80a58a7458e068a5-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 ---
 
 ## 1. Community and Task
